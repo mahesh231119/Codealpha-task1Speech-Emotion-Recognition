@@ -35,28 +35,3 @@ Data imbalance observed in some classes
 Strong understanding of audio data
 Prepared dataset for model training
 Identified key patterns for classification
-💼 LinkedIn Post
-
-🚀 Exploring Human Emotions Through Speech Data!
-
-I recently worked on a Speech Emotion Recognition (EDA) project, where I analyzed audio signals to understand emotional patterns.
-
-🔍 Key Highlights:
-
-Extracted audio features using Librosa
-Performed waveform & spectrogram analysis
-Visualized emotion distribution
-Identified key patterns across emotions
-
-📊 Insight:
-Different emotions produce unique audio signatures, making feature extraction crucial for classification tasks.
-
-💡 This project helped me strengthen my understanding of:
-
-Audio data processing
-Feature engineering
-Exploratory Data Analysis
-
-📂 GitHub: [Add your link]
-
-#DataScience #EDA #MachineLearning #AudioProcessing #Python
